@@ -193,6 +193,8 @@ requirements.txt
 
 ## 🔁 System Comparison for (XOR vs House Price Model v5) both using PyTorch
 
+- Note: The below comparision is just added to see the envolving from my XOR learning Project
+
 - This version 5 of the House Price Prediction is the only one using PyTorch
 
 ### XOR Project (Previous Version)
