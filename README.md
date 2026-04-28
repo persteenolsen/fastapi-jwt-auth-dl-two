@@ -2,7 +2,7 @@
 
 Last updated:
 
-- 27-04-2026
+- 28-04-2026
 
 A production-style machine learning backend system that predicts house prices using a neural network trained in PyTorch and deployed using ONNX Runtime with FastAPI.
 
