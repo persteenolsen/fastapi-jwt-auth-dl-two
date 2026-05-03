@@ -93,7 +93,7 @@ Outputs:
 
 ---
 
-## 🔧 Model Tuning (NEW)
+## 🔧 Model Tuning
 
 During development, the model was tuned to improve stability and realism of predictions.
 
