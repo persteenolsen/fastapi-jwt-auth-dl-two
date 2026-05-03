@@ -42,6 +42,7 @@ This project demonstrates a complete end-to-end ML engineering workflow from dat
 
 ## 📁 Project Structure
 
+```
 .
 ├── main.py                 # FastAPI inference API
 ├── train.py               # Model training + ONNX export
@@ -53,7 +54,7 @@ This project demonstrates a complete end-to-end ML engineering workflow from dat
 │   ├── dev.txt
 ├── requirements.txt      # Production (Vercel)
 └── .env                  # Environment variables (not committed)
-
+```
 ---
 
 ## ⚙️ Installation
