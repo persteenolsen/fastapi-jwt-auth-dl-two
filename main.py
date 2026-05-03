@@ -30,7 +30,7 @@ ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD")
 # Create FastAPI application with metadata (used in Swagger docs)
 app = FastAPI(
     title="FastAPI + JWT + Deep Learning + House Price Prediction (v5)",
-    description="28-04-2026 - FastAPI + JWT + Deep Learning + House Price Prediction Neural Network trained by PyTorch and exported to ONNX",
+    description="03-05-2026 - FastAPI + JWT + Deep Learning + House Price Prediction Neural Network trained by PyTorch and exported to ONNX",
     version="5.0.0",
     contact={
         "name": "Per Olsen",
